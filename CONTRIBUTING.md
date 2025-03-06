@@ -1,1 +1,1 @@
-
+"¡Nos encantaría recibir tu contribución! Si deseas participar en el desarrollo de Github, sigue estos pasos: 1. Haz un fork del repositorio. 2. Crea una rama con tu nueva funcionalidad o corrección de errores (feature/mi-nueva-funcionalidad o fix/mi-correccion). 3. Escribe código limpio y bien documentado. 4. Realiza pruebas para asegurar que tu código funciona correctamente. 5. Crea un pull request describiendo tus cambios de forma clara y concisa. Nos pondremos en contacto contigo para revisar y fusionar tu solicitud."
